@@ -11,4 +11,15 @@ This repository contains all code for the CTCL capstone project. Fall 2022.
 
  Finally, there are two notebooks on gene-level results. gene_comparison is now deprecated and exists for documentation of earlier methodologies. mutation_testing contains the most recent notebook with permutation testing code.
  
- ## Please note no datasets are included in this repository as some of our data is concidered sensitive and private.  
+ ### Please note that no datasets are included in this repository as some of our data is concidered sensitive and private.
+ 
+ ## Team Members
+George Bingham Reynolds- gbr2114
+Adrian Garcia Hernandez - ag4482
+Haoyang (Alex) Shen - hs3312
+Sung Jun (Kevin) Won - sw3049
+Zhaoyu (Lewis) Wu -zw2783
+
+## Sponsor/Mentor
+Dr. Itsik Pe'er, Columbia University
+Celine Schreidah
