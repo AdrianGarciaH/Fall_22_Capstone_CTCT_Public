@@ -14,7 +14,7 @@ This repository contains all code for the CTCL capstone project. Fall 2022.
  ### Please note that no datasets are included in this repository as some of our data is concidered sensitive and private.
  
  ## Team Members
-George Bingham Reynolds- gbr2114 \n
+George Bingham Reynolds- gbr2114 /n
 Adrian Garcia Hernandez - ag4482
 Haoyang (Alex) Shen - hs3312
 Sung Jun (Kevin) Won - sw3049
